@@ -1,8 +1,8 @@
 ---
-title: Make Your First Event
-text: In order to make your first event, follow the instructions here.
-location: Your Location
-link: https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
-date: 2077-01-01
+title: Introduction to Java
+text: This is the event for Introduction for Java Freshers
+location: Department of Computer Science, University of Jaffna
+link: https://github.com/nifrasismail/studyGroup/issues/1
+date: 2015-07-21
 
 ---
