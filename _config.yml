@@ -2,8 +2,8 @@
 #Follow these 2 steps to set up your site.
 
 #Step 1: give your study group a name and a short description:
-title: Advanced Java Study Group
-description: "Java Study Group for OPENDESK"
+title: OPENDESK Study Group
+description: "A Study Group of OPENDESK University of Jaffna"
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
@@ -16,8 +16,8 @@ description: "Java Study Group for OPENDESK"
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group of OPENDESK!"
+titleBackground: "https://pixabay.com/get/123da7fe6f72a8c86cd3/1437725774/books-552607_1280.jpg?direct"
+headlineSmall: "We are Here... OPENDESK!"
 headlineMain: "Let's Dig Together"
 
 
