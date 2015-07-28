@@ -19,7 +19,6 @@ description: "A study group."
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome To Our Study Group!"
 headlineMain: "Let's Work Together"
-site.github.url: "http://tomhohenstein.github.io/studyGroup"
 
 
 #========================================
