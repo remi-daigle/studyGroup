@@ -1,0 +1,8 @@
+---
+title: Test Event
+text: In order to make your first event, follow the instructions here.
+location: Boston, MA
+link: https://github.com/tomhohenstein/studyGroup/issues/1
+date: 2015-07-28
+
+---
