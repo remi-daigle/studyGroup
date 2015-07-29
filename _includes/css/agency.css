@@ -150,7 +150,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.secondary }};
     color: #fff;
     background-color: #{{ site.color.secondary }};
 }

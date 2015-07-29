@@ -27,7 +27,7 @@ headlineMain: "Let's Work Together"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: B60000
-  secondary: fec503
+  secondary: BF6E6E
   secondary-dark: 333
 
 # Build settings
