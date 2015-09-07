@@ -1,6 +1,6 @@
 ---
 title: Coworking session
-text: Learn how to plot your study site on R
+text: An open session to work on projects and ask each other questions
 location: The Axe, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/5
 date: 2015-10-16
