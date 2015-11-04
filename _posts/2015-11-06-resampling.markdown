@@ -1,6 +1,6 @@
 ---
 title: Resampling Algorithms for Sensitivity Analyses by Danielle Quinn
-text: Population estimates from tagging data
+text: The upside of oversampling: how to improve sampling protocol efficiency
 location: The U-Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/10
 date: 2015-11-06
