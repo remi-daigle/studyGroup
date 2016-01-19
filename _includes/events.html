@@ -20,7 +20,7 @@
                   {% assign isEvent = 1 %}
                   <li>
                     <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a>
-                    <div class='eventSub'>{{ post.date | date: "%B %-d, %Y"}} at {{ post.time }} — {{ post.location }}</div>
+                    <div class='eventSub'>{{ post.date | date: "%B %-d, %Y"}} from {{ post.startTime }} to {{ post.endTime }} — {{ post.location }}</div>
                     <div class='eventText'>{{ post.text }}</div>
                   </li>
                 {% endif %}
@@ -52,7 +52,7 @@
                   {% assign isEvent = 1 %}
                   <li>
                     <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a>
-                    <div class='eventSub'>{{ post.date | date: "%B %-d, %Y"}} at {{ post.time }} — {{ post.location }}</div>
+                    <div class='eventSub'>{{ post.date | date: "%B %-d, %Y"}} at {{ post.startTime }} — {{ post.location }}</div>
                     <div class='eventText'>{{ post.text }}</div>
                   </li>
                 {% endif %}
