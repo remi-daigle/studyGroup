@@ -1,6 +1,6 @@
 ---
 title: lubridate Overview and Coworking Session
-text: A short tutorial covering formatting dates and times, and demonstrating handy functions in the lubridate package, followed by an open session to work on projects and ask each other questions.
+text: test
 location: The U-Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/24
 date: 2016-01-29
