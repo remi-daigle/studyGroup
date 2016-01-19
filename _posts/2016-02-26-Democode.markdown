@@ -1,5 +1,5 @@
 ---
-title: R DemoCode
+title: R-Bar DemoCode Event
 text: 'Join us for an open house of short (~5 minute) coding demonstrations covering a wide range of topics!'
 location: The U-Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/27
