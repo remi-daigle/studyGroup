@@ -1,6 +1,6 @@
 ---
-title: 'R Markdown'
-text: 'Create reproducible documents with embedded R code.'
+title: R Markdown
+text: Create reproducible documents with embedded R code.
 location: The U-Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/26
 date: 2016-02-26
