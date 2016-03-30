@@ -1,6 +1,6 @@
 ---
 title: Dates and Times in R and Co-Working Session
-text: A short tutorial covering formatting dates and time in R, and demonstrating handy functions in the lubridate package, followed by an open session to work on projects and ask each other questions.
+text: How to format dates and time in R using lubridate
 location: The U-Club, Acadia University
 link: https://github.com/remi-daigle/studyGroup/issues/24
 date: 2016-01-29
