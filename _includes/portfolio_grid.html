@@ -23,7 +23,7 @@
                     <li>
                       <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a>
                       <div class='eventSub'>{{ post.text }}</div>
-					  <div class='eventSub'> {{ post.date | date: "%-d %B %Y"}} from {{post.startTime | date:"%r"}} at {{ post.location }} </div>
+					  <div class='eventSub'> {{ post.date | date: "%-d %B %Y"}} from {{post.startTime | date:"%r"}} to {{post.endTime | date:"%r"}} at {{ post.location }} </div>
                     </li>
                   {% endif %}
                 {% endfor %}
